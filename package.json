@@ -1,0 +1,20 @@
+{
+  "name": "com.fscigliano.registrables",
+  "version": "1.0.0",
+  "displayName": "Registrables",
+  "description": "A self registering system to execute code in batches",
+  "unity": "2021.3",
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.es@gmail.com",
+    "url": "https://github.com/fscigliano/Registrables"
+  },
+  "dependencies": {
+    "com.fscigliano.reflection-extensions": "https://github.com/fscigliano/ReflectionExtensions.git#v1.0.0"
+  },
+  "keywords": [
+    "tool",
+    "registrables"
+  ],
+  "_fingerprint": "270669aa86ba975ca7cac3774740d933bf2d6fab"
+}
